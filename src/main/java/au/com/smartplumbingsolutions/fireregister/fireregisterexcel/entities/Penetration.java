@@ -8,7 +8,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 @Entity
-@Table(name = "penetrations")
+@Table(name = "fire_identifications")
 @Getter
 @Setter
 public class Penetration {
